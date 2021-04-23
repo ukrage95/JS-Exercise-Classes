@@ -18,7 +18,7 @@ This challenge focuses on using the new for ES6 `class` syntax.
 1. `cd` into your newly cloned repository.
 1. Create a new branch by typing `git checkout -b <firstName-lastName>`.
 1. Install dependencies by typing `npm install`.
-1. Run tests by typing `npm run test:watch`.
+1. Run tests by typing ``.
 1. Work on your branch, push commits and create PR as usual.
 
 ### Task 2 - MVP
